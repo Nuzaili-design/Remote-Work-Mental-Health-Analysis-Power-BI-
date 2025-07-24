@@ -10,7 +10,7 @@ Clean, sortable tables with conditional formatting
 Interactive and easy-to-understand dashboard layout
 
 Report link:
-https://app.fabric.microsoft.com/reportEmbed?reportId=eebb38e3-9d88-436a-a4d7-7103a11ac6cc&appId=bff55697-af2a-4857-b4ee-4414902898c8&autoAuth=true&ctid=00e73c06-466e-4951-9b2c-b11277dd6232&actionBarEnabled=true
+https://app.powerbi.com/view?r=eyJrIjoiNzA0MjY4NjctZTc5ZS00NWVjLWI0NmYtZWJmM2ViZmUwZGUyIiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9
 
 
 <img width="1013" height="649" alt="Screenshot 2025-07-24 200533" src="https://github.com/user-attachments/assets/fb67d1fd-8093-47ba-8fa0-3fce82887d58" />
