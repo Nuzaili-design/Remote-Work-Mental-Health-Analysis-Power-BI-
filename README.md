@@ -9,8 +9,8 @@ Clean, sortable tables with conditional formatting
 
 Interactive and easy-to-understand dashboard layout
 
-Report link:
-https://app.powerbi.com/view?r=eyJrIjoiMTVmMmMzYzYtNmQ4My00MDhmLTllZmQtZTY2MjYyNjQ5OWQ3IiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9
+Report link: https://app.powerbi.com/view?r=eyJrIjoiNzA0MjY4NjctZTc5ZS00NWVjLWI0NmYtZWJmM2ViZmUwZGUyIiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9
 
 
-<img width="1013" height="649" alt="Screenshot 2025-07-24 200533" src="https://github.com/user-attachments/assets/fb67d1fd-8093-47ba-8fa0-3fce82887d58" />
+<img width="912" height="728" alt="image" src="https://github.com/user-attachments/assets/e97a3021-3661-4ce8-9bd9-6cbd752af7b5" />
+
